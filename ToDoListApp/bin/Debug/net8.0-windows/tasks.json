@@ -1,0 +1,23 @@
+[
+  {
+    "Title": "Tâche Principale",
+    "IsChecked": false,
+    "Children": [
+      {
+        "Title": "Sous-tâche 1",
+        "IsChecked": false,
+        "Children": []
+      },
+      {
+        "Title": "Sous-tâche 2",
+        "IsChecked": false,
+        "Children": []
+      },
+      {
+        "Title": "Sous-tâche 3",
+        "IsChecked": false,
+        "Children": []
+      }
+    ]
+  }
+]
